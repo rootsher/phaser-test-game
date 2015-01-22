@@ -1,0 +1,17 @@
+{
+    "name": "phaser-test-game",
+    "version": "0.1.0",
+    "author": "Konrad Kowalski <rootsher@gmail.com>",
+    "description": "Example game wrote in PhaserJS.",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/rootsher/phaser-test-game"
+    },
+    "keywords": [
+        "phaser",
+        "game"
+    ],
+    "dependencies": {
+        "express": "4.11.x"
+    }
+}
